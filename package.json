@@ -1,0 +1,18 @@
+{
+  "name": "morse-mp3",
+  "version": "0.2.2",
+  "description": "convert text to morse audio",
+  "main": "morse-mp3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "morse-mp3": "bin/morse-mp3.js"
+  },
+  "author": "Cyrus Roshan <hello@cyrusroshan.com> (http://cyrusroshan.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.1",
+    "morse": "^0.1.0"
+  }
+}
