@@ -1,6 +1,6 @@
 {
   "name": "morse-mp3",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "description": "convert text to morse audio",
   "main": "morse-mp3.js",
   "scripts": {
